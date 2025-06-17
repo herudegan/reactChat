@@ -1,0 +1,26 @@
+/* index.css */
+body{
+    display: flex;
+    margin: 0;
+    color: rgb(241, 241, 241);
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(47, 47, 47);
+    height: 100vh;
+    width: 100vw;
+}
+
+.container{
+    background-color: #0f0f0f;
+    width: 35dvw;
+    height: 70dvh;
+    border-radius: 15px;
+    border: 2px solid rgb(63, 63, 63);
+    filter: drop-shadow(0 0 10px rgb(80, 80, 80));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
